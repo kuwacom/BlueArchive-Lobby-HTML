@@ -1,0 +1,2 @@
+# BlueArchive-Lobby-HTML
+BlueArchiveのメモロビをHTMLでへ実装しブラウザで閲覧できるようにしたもの
