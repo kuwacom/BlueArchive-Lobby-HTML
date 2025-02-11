@@ -1,10 +1,14 @@
 # BlueArchive-Lobby-HTML
 BlueArchiveのメモロビをHTMLでへ実装しブラウザで閲覧できるようにしたもの
 
-リリースバージョンごとにコミットしていきます
+ビルド出力されたHTMLをリリースバージョンごとにコミットしていきます
+
+# 利用ライブラリ
+- Core: React + Vite
+- UI: MUI
 
 # クレジット
-Version 2.11.2<br>
+Version 2.11.3<br>
 © 2024 kuwa.dev
 
 "BlueArchive" は NEXON GAMES Co, Ltd 及び Yostar, Inc の登録商標です<br>
